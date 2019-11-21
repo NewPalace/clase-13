@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/utec/CLionProjects/clase 13/entero.h
+includes.h
+/home/utec/CLionProjects/clase 13/includes.h
+
+/home/utec/CLionProjects/clase 13/includes.h
+iostream
+-
+
+/home/utec/CLionProjects/clase 13/main.cpp
+includes.h
+/home/utec/CLionProjects/clase 13/includes.h
+entero.h
+/home/utec/CLionProjects/clase 13/entero.h
+
